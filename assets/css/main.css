@@ -1,0 +1,22 @@
+.wopowt_container{
+    font-family: arial;
+}
+.wopowt_container h3{
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.wopowt_container a {
+    color: orange;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#btnDownload {
+    padding: 0 5px;
+    border-radius: 5px;
+}
+.files p{
+    margin: 10px;
+}
